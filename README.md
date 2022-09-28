@@ -1,1 +1,1 @@
-# Doubly LinkedList Data Structure Implementation
+# Doubly Linked List Data Structure Implementation
